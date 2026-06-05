@@ -29,8 +29,8 @@ print("✅ Instagram Login Successful!")
 # =========================
 TARGET_GROUP_IDS = [
     "1384445266434510",
-    "1234567890123456",
-    "9876543210987654"
+    "9853140578080649",
+    "1879481356017940"
 ]
 
 # =========================
@@ -43,10 +43,7 @@ def get_stylish_welcome(name):
 ╚═══════════════╝
 
 🔥 Hey {name}! 🔥
-
 🥳 Group me welcome!
-💖 Rules check kar lena aur enjoy karo!
-
 ✨ Happy Chatting! ✨
 """
     return message.strip()
