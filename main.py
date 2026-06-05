@@ -43,6 +43,7 @@ def get_stylish_welcome(name):
 ╚═══════════════╝
 
 🔥 Hey {name}! 🔥
+
 🥳 Group me welcome!
 ✨ Happy Chatting! ✨
 """
